@@ -1,0 +1,1 @@
+Prática e aprendizado de Python usando o Pycharm.
